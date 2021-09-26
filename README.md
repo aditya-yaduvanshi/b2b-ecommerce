@@ -6,15 +6,18 @@ This is b2b multi tenant ecommerce api using nodejs and expressjs with mongodb a
 
 API Links starts with -
 For **Main Site** - */api/main/*
+
 For **Admin Site** - */api/admin/*
+
 For **User Accounts & Authentication** - */api/accounts/*
+
 Set Headers *Content-Type : application/json*
 
 **Main Site**
 
 ### List of available products
 
-GET */api/main/products*
+GET **_/api/main/products_**
 
 **Sample Response**
 
@@ -37,7 +40,7 @@ GET */api/main/products*
 
 ### Single product details by Id
 
-GET */api/main/products/:id
+GET **_/api/main/products/:id_**
 
 **Samaple Response**
 
