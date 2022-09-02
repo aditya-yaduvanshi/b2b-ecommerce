@@ -1,5 +1,5 @@
 # b2b-ecommerce
-This is b2b multi tenant ecommerce api using nodejs and expressjs with mongodb as a database.
+This is b2b ecommerce api using nodejs and expressjs with mongodb as a database.
 
 ## Documentation
 **A quick start guide :**
